@@ -7,6 +7,7 @@ permalink: /linuxmint
 versionCommand: cat /etc/linuxmint/info
 releasePolicyLink: https://linuxmint.com/download_all.php
 releaseLabel: "__RELEASE_CYCLE__ '__CODENAME__'"
+releaseColumn: false
 
 releases:
 -   releaseCycle: "lmde6"
