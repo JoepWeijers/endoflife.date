@@ -9,6 +9,7 @@ releasePolicyLink: https://linuxmint.com/download_all.php
 releaseLabel: "__RELEASE_CYCLE__ '__CODENAME__'"
 releaseDateColumn: true
 releaseColumn: false
+eolColumn: Support
 
 releases:
 -   releaseCycle: "lmde6"
